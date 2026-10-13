@@ -21,3 +21,7 @@ Then ask your agent something like: *"Explain how DNS works to the ops team with
 | `skills/meme-explainer/second-language.md` | Optional: add a second language with a toggle |
 | `skills/meme-explainer/check-layout.js` | Browser check for overlapping text, overflow, emoji and sideways scroll |
 | `skills/meme-explainer/export-pdf.cjs` | PDF export that keeps the desktop layout (needs Playwright) |
+
+## License
+
+MIT, see [LICENSE](LICENSE).
